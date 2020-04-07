@@ -1,23 +1,18 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-gh-pages/static/js/main.bfc2872f.chunk.js",
-    "main.js.map": "/react-gh-pages/static/js/main.bfc2872f.chunk.js.map",
-    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.028ebc43.js",
-    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.028ebc43.js.map",
-    "static/js/2.f59639fa.chunk.js": "/react-gh-pages/static/js/2.f59639fa.chunk.js",
-    "static/js/2.f59639fa.chunk.js.map": "/react-gh-pages/static/js/2.f59639fa.chunk.js.map",
+    "main.css": "/react-gh-pages/static/css/main.c6b7a102.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.889233d7.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.889233d7.chunk.js.map",
+    "runtime~main.js": "/react-gh-pages/static/js/runtime~main.f2d17e16.js",
+    "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.f2d17e16.js.map",
+    "static/js/2.34a57af8.chunk.js": "/react-gh-pages/static/js/2.34a57af8.chunk.js",
+    "static/js/2.34a57af8.chunk.js.map": "/react-gh-pages/static/js/2.34a57af8.chunk.js.map",
     "index.html": "/react-gh-pages/index.html",
-    "precache-manifest.1284c4221578ac9c144f7dd735144550.js": "/react-gh-pages/precache-manifest.1284c4221578ac9c144f7dd735144550.js",
+    "precache-manifest.289d26b05d1421d502236cacf4801465.js": "/react-gh-pages/precache-manifest.289d26b05d1421d502236cacf4801465.js",
     "service-worker.js": "/react-gh-pages/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/react-gh-pages/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.f59639fa.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.f59639fa.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.5d5d9eef.svg"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.028ebc43.js",
-    "static/js/2.f59639fa.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.bfc2872f.chunk.js"
-  ]
+    "static/css/main.c6b7a102.chunk.css.map": "/react-gh-pages/static/css/main.c6b7a102.chunk.css.map",
+    "static/media/gdsicon.png": "/react-gh-pages/static/media/gdsicon.5b043dcf.png",
+    "static/media/icon.png": "/react-gh-pages/static/media/icon.c241c4e3.png",
+    "static/media/signin.png": "/react-gh-pages/static/media/signin.d7033151.png"
+  }
 }
